@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Provodock/lab7_1_front.git/static/css/main.97b12e15.css",
+    "main.js": "/Provodock/lab7_1_front.git/static/js/main.efc25075.js",
+    "static/media/Odeca.png": "/Provodock/lab7_1_front.git/static/media/Odeca.f30addb99ddbfd9a3f44.png",
+    "index.html": "/Provodock/lab7_1_front.git/index.html",
+    "main.97b12e15.css.map": "/Provodock/lab7_1_front.git/static/css/main.97b12e15.css.map",
+    "main.efc25075.js.map": "/Provodock/lab7_1_front.git/static/js/main.efc25075.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97b12e15.css",
+    "static/js/main.efc25075.js"
+  ]
+}
